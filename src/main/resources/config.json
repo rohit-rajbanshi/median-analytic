@@ -1,0 +1,4 @@
+{
+	"className": "com.gslab.analytic.entry.MedianEntryPoint",
+	"methodName": "findMedian"
+}
